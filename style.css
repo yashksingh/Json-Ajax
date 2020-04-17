@@ -1,0 +1,12 @@
+body{
+    margin: 0;
+    padding: 0;
+    
+}
+header{
+    margin-left: 20px;
+}
+#btn{
+    color: cadetblue;
+    border: 1px solid #000;
+}
